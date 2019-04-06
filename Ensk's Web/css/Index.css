@@ -1,9 +1,4 @@
-﻿body{
-    background-image: url("../images/body.jpg");
-	font-family: 'Microsoft YaHei UI',arial,sans-serif;
-    font-size: 13px;
-}
-
+﻿
 #logo{
     width: 280px;
     height: 100px;
@@ -65,7 +60,7 @@
     margin-top: 20px;
     margin-bottom: 100px;
     width: 840px;
-    height: 485px;
+    height: 285px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 30px;
